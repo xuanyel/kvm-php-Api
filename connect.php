@@ -22,3 +22,4 @@ else {  //正常环境
         $connect = "success";
     }
 }
+?>
